@@ -83,7 +83,7 @@ Vim 조작법을 반복 숙달하거나, 스트레스 해소 및 머리 식히�
 위태위태 행성 쌓기 (Balance Planet Duo)
 
 **페어**  
-@Gemini
+@e9ua1
 
 **배포 링크**  
 [위태위태 행성 쌓기 배포 링크](https://gemini.google.com/share/ebfd961c660b)
